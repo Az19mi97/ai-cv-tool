@@ -8,10 +8,10 @@ Built with React, Express, and Cohere AI.
 
 ## Images
 
-[AI CV Tool 1.pdf](https://github.com/user-attachments/files/26389505/AI.CV.Tool.1.pdf)
-[AI CV Tool 2.pdf](https://github.com/user-attachments/files/26389503/AI.CV.Tool.2.pdf)
-[AI CV Tool 3.pdf](https://github.com/user-attachments/files/26389501/AI.CV.Tool.3.pdf)
-[AI CV Tool 4.pdf](https://github.com/user-attachments/files/26389506/AI.CV.Tool.4.pdf)
+<img width="350" height="430" alt="AI CV Tool 1" src="https://github.com/user-attachments/assets/52556adf-42ba-4f8d-bc96-49f34de733f7"/>
+<img width="350" height="430" alt="AI CV Tool 2" src="https://github.com/user-attachments/assets/ba3eadee-5b4f-49f9-b616-a48135dda384" />
+<img width="350" height="430" alt="AI CV Tool 3" src="https://github.com/user-attachments/assets/855b6216-00d2-4e7a-9487-8dd5160a373b" />
+<img width="350" height="430" alt="AI CV Tool 4" src="https://github.com/user-attachments/assets/9737f01f-2298-4695-9ccc-37b2d2768bba" />
 
 ---
 
