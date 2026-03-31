@@ -6,6 +6,15 @@ Built with React, Express, and Cohere AI.
 
 ---
 
+## Images
+
+[AI CV Tool 1.pdf](https://github.com/user-attachments/files/26389505/AI.CV.Tool.1.pdf)
+[AI CV Tool 2.pdf](https://github.com/user-attachments/files/26389503/AI.CV.Tool.2.pdf)
+[AI CV Tool 3.pdf](https://github.com/user-attachments/files/26389501/AI.CV.Tool.3.pdf)
+[AI CV Tool 4.pdf](https://github.com/user-attachments/files/26389506/AI.CV.Tool.4.pdf)
+
+---
+
 ## Overview
 
 AI CV Engine helps users instantly transform their existing CV into a **professional** and a **natural, human-written cover letter** based on a job description.
